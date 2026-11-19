@@ -13,6 +13,8 @@ The following SCENARIO are defined in registry for different terrains:
 - `CustomRobotJoystickRoughTerrain` : A heightmap based FBM terrain
 - `CustomRobotJoystickBlockTerrain` : A heightmap based blocky terrain
 
+If you are looking for the full CS4278 project, details are located in a subfolder, [here](project/README.md).
+
 ## Requirements
 - Python 3.12.3
 - A `venv` environment defined by `requirements.txt`
